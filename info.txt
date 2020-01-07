@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Yogeshkumar Prajapati.
+=======
+Directly updating from github.com
+>>>>>>> master
